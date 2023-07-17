@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - file name
+ * main - prints the name of the file
  *
  * Return: Always 0 (Success)
  */
